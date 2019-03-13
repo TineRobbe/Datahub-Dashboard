@@ -114,7 +114,6 @@ $ yarn run encore production
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-
 ## Authors
 
 [All Contributors][link-contributors]
